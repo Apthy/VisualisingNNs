@@ -1,5 +1,6 @@
 # VisualisingNNs
-A little dive into visualising what is happening in neural nets based on distil.pub paper on feature visualisation
+A little dive into visualising what is happening in neural nets based on distil.pub paper on feature visualisation.
+
 This Code uses the MNIST dataset and trains a CNN to recognise the classes of digits. In addition it allows the user to visualise what the network is learning through multiple methods.
 
 ![FirstLayer](https://user-images.githubusercontent.com/37843140/171997293-259ebb46-553e-44e5-aa29-50f9d02c6553.png)
